@@ -88,7 +88,7 @@ output {
   padding: 50% 0;
   /* padding control height, will always perferly square regradless of width */
   position: relative;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .img-wrap img {
